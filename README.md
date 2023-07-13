@@ -1,2 +1,2 @@
 # Game-of-life
-My overtake on Conway's Game on Life.
+My overtake on Conway's Game of Life.
